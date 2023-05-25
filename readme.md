@@ -1,6 +1,6 @@
 # Wallet App
 
-<img src="https://github.com/eduardomonte/wallet-app-frontend/blob/master/src/img/wallet-app.png" alt="Wallet Preview" height="228" width="678">
+<img src="https://github.com/eduardomonte/wallet-app-frontend/blob/master/src/img/wallet-app.png" alt="Wallet Preview" height="122" width="268">
 
 ## Introduction
 
